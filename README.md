@@ -1,7 +1,7 @@
+I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipur 🤓
 
-### My top 10 technologies- Look 
-
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
-|---|---|---|---|---|
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
- 
+- 🔭 I’m currently working on taking rest 
+- 🌱 I’m currently learning about Data Structures , Unix System 
+- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
+- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
+- 💬 Ask me about anything and everything 
